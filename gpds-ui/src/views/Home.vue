@@ -2,7 +2,7 @@
 <template>
     <div>
       <h1>Home</h1>
-      <p>JENKIS</p>
+      <p>JENKIS YA FUNCAAAAA</p>
     </div>
   </template>
   
